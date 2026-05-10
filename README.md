@@ -26,6 +26,11 @@
 
 ## 💻 Featured Projects  
 
+- [🐣 Leleka](https://project-1-front-nu.vercel.app/) - Leleka is a web aplication. 
+  Designed to support expectant mothers throughout pregnancy. It helps track weekly progress, record personal reflections, receive daily tips, and manage tasks all within a clean mobile responsive and adaptive desctop interface.
+  *Role:* Developed dashboard, personalized greeting (displays user name fetched from backend), pregnancy status (shows pregnancy week and countdown to due date), daily tips(displays daily tip fetched dynamically), tasks(lists tasks with checkboxes and modal for adding new tasks) and mood traking(allows diary entry creation via modal).
+  *Tech:* HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoBD.    
+
 - [🐾 Paw Hut](https://viktor-yashchuk.github.io/No-Bugs-Just-Pugs/) – Web app supporting homeless animals by simplifying adoption and shelter communication.  
   *Role:* Ensured modal functionality, conducted code reviews, assisted teammates in improving their sections.  
   *Tech:* HTML5, CSS3, JavaScript (ES6+), Swiper.js, iziToast, SweetAlert2, Accordion, Raty.js, Fetch API.  
@@ -33,11 +38,6 @@
 - [☕ CoffeeJoy](https://dmytro-dobrotvorskyi.github.io/project-08/) – Single‑page site for a coffee shop.  
   *Role:* Built Hero section, reviewed teammates’ code, contributed to improvements across sections.  
   *Tech:* HTML5, CSS3, JavaScript.
-
-- [🐣 Leleka](https://project-1-front-nu.vercel.app/) - Leleka is a web aplication. 
-  Designed to support expectant mothers throughout pregnancy. It helps track weekly progress, record personal reflections, receive daily tips, and manage tasks all within a clean mobile responsive and adaptive desctop interface.
-  *Role:* Developed dashboard, personalized greeting (displays user name fetched from backend), pregnancy status (shows pregnancy week and countdown to due date), daily tips(displays daily tip fetched dynamically), tasks(lists tasks with checkboxes and modal for adding new tasks) and mood traking(allows diary entry creation via modal).
-  *Tech:* HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoBD.    
 
 ---
 
