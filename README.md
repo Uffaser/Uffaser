@@ -45,6 +45,7 @@
 
 ![English](https://img.shields.io/badge/English--blue?style=flat-square)  
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)  
+![Polish](https://img.shields.io/badge/Polish-Upper-Intermediante-red?style=flat-square)  
 
 ---
 
