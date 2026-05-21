@@ -35,8 +35,8 @@
     
 - [🚗 Rental Car](https://rental-car-pied-nine.vercel.app/) - RentalCar is a modern frontend application for a car rental company.
   Users can browse a catalog of available vehicles, apply flexible filters, view detailed specifications for each car, and submit rental requests. The project is built with Next.js (App Router) and TypeScript, with a focus on performance, SEO, and a smooth user experience.
-   - My pet project
-   - *Tech:* Framework: Next.js (App Router), TypeScript, TanStack Query (React Query), Zustand, CSS Modules, SVG Sprite
+   - My pet project.
+   - *Tech:* Framework: Next.js (App Router), TypeScript, TanStack Query (React Query), Zustand, CSS Modules, SVG Sprite.
   
 - [🐾 Paw Hut](https://viktor-yashchuk.github.io/No-Bugs-Just-Pugs/) – Web app supporting homeless animals by simplifying adoption and shelter communication.
   - *Role:* Ensured modal functionality, conducted code reviews, assisted teammates in improving their sections.
