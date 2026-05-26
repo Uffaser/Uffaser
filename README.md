@@ -50,9 +50,9 @@
 
 ## 🗣️ Languages  
 
-![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)  
+![English](https://img.shields.io/badge/English-Intermittent-blue?style=flat-square)  
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)  
-![Polish](https://img.shields.io/badge/Polish-B2-red?style=flat-square)  
+![Polish](https://img.shields.io/badge/Polish-Fluent-red?style=flat-square)  
 
 ---
 
