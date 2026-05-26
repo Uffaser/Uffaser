@@ -28,10 +28,10 @@
 
 ## 💻 Featured Projects  
 
-- [🐣 Leleka](https://project-1-front-nu.vercel.app/) - Leleka is a web aplication. 
-  Designed to support expectant mothers throughout pregnancy. It helps track weekly progress, record personal reflections, receive daily tips, and manage tasks all within a clean mobile responsive and adaptive desctop interface.
+- [🐣 Leleka](https://project-1-front-nu.vercel.app/) - Leleka is a web application. 
+  Designed to support expectant mothers throughout pregnancy. It helps track weekly progress, record personal reflections, receive daily tips, and manage tasks all within a clean mobile responsive and adaptive desktop interface.
   - *Role:* Developed dashboard, personalized greeting (displays user name fetched from backend), pregnancy status (shows pregnancy week and countdown to due date), daily tips(displays daily tip fetched dynamically), tasks(lists tasks with checkboxes and modal for adding new tasks) and mood traking(allows diary entry creation via modal).
-  - *Tech:* HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoBD.
+  - *Tech:* HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB.
     
 - [🚗 Rental Car](https://rental-car-pied-nine.vercel.app/) - RentalCar is a modern frontend application for a car rental company.
   Users can browse a catalog of available vehicles, apply flexible filters, view detailed specifications for each car, and submit rental requests. The project is built with Next.js (App Router) and TypeScript, with a focus on performance, SEO, and a smooth user experience.
